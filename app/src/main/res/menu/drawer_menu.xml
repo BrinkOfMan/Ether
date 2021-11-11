@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home"></item>
+
+    <item android:title="@string/accounts">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/cash"
+                    android:icon="@drawable/ic_baseline_table_chart_24"
+                    android:title="@string/cash"/>
+
+                <item
+                    android:id="@+id/expenses"
+                    android:icon="@drawable/ic_baseline_table_chart_24"
+                    android:title="@string/expenses"/>
+
+                <item
+                    android:id="@+id/credit_cash_sales"
+                    android:icon="@drawable/ic_baseline_table_chart_24"
+                    android:title="@string/sales"/>
+
+                <item
+                    android:id="@+id/credit_cash_purchases"
+                    android:icon="@drawable/ic_baseline_table_chart_24"
+                    android:title="@string/purchases"/>
+
+                <item
+                    android:id="@+id/inventory"
+                    android:icon="@drawable/ic_baseline_table_chart_24"
+                    android:title="@string/inventory"/>
+
+                <item
+                    android:id="@+id/sales_journal"
+                    android:icon="@drawable/ic_baseline_table_chart_24"
+                    android:title="@string/sales_journal"/>
+
+                <item
+                    android:id="@+id/purchases_journal"
+                    android:icon="@drawable/ic_baseline_table_chart_24"
+                    android:title="@string/purchases_journal"/>
+
+                <item
+                    android:id="@+id/general_journal"
+                    android:icon="@drawable/ic_baseline_table_chart_24"
+                    android:title="@string/general_journal"/>
+
+            </group>
+        </menu>
+
+    </item>
+
+    <item android:title="@string/transactions">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/transactions"
+                    android:icon="@drawable/ic_baseline_table_chart_24"
+                    android:title="@string/manage_transactions" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

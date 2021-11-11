@@ -1,0 +1,48 @@
+<resources>
+    <string name="temp">TEMP</string>
+    <string name="app_name">Ether</string>
+    <string name="title">ETHER</string>
+    <string name="inventory">INVENTORY</string>
+    <string name="finance_title">INVENTORY</string>
+    <string name="accounts">ACCOUNTS</string>
+    <string name="cash">CASH</string>
+    <string name="expenses">EXPENSES</string>
+    <string name="sales">CASH/CREDIT SALES</string>
+    <string name="purchases">PURCHASES</string>
+    <string name="sales_journal">SALES JOURNAL</string>
+    <string name="purchases_journal">PURCHASES JOURNAL</string>
+    <string name="general_journal">GENERAL JOURNAL</string>
+    <string name="urmumxd">ur mum xd</string>
+<<<<<<< Updated upstream
+=======
+    <string name="menu">Navigation Menu</string>
+    <string name="home">Home</string>
+    <string name="add_values">+</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="history">History</string>
+    <string name="balance">Balance</string>
+    <string name="value">Value</string>
+    <string name="date">Date</string>
+    <string name="id">ID</string>
+    <string name="update_button">Update</string>
+    <string name="add_button">Add</string>
+    <string name="transactions">Transactions</string>
+    <string name="manage_transactions">Manage Transactions</string>
+>>>>>>> Stashed changes
+    <string-array name="month">
+        <item>Choose a month</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>
